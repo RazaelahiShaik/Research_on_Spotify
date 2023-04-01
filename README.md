@@ -1,2 +1,2 @@
 # Research_on_Spotify
-Research om how a popular song can influence in Spotify using R programming.
+Research on finding out how much a popular song can influence Spotify using R programming
